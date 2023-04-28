@@ -1,2 +1,4 @@
-# MARS-Package
-A collaboration of 3 students to create an R package based on the concept of Multivariate Adaptive Regression Splines (MARS) by Jerome H. Friedman.
+# stat360GroupKDH
+1. Yiding (Daniel) Zhi
+2. Kara (My Ngoc Nhu) Nguyen
+3. Harshit Goyal
