@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 
 # How to Access the Package  
 
-[link](https://github.com/yza608/stat360GroupKDH)  
+[link](https://github.com/ngkara98/MARS-Package)  
 
 # Description
 
